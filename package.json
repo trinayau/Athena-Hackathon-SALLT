@@ -1,0 +1,20 @@
+{
+  "name": "athena-hackathon-sallt",
+  "version": "1.0.0",
+  "description": "Team SALLT Submission for Athena Hackathon R2 Factory Theme: How can households reduce their carbon footprint?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinayau/Athena-Hackathon-SALLT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinayau/Athena-Hackathon-SALLT/issues"
+  },
+  "homepage": "https://github.com/trinayau/Athena-Hackathon-SALLT#readme"
+}

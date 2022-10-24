@@ -71,7 +71,7 @@ const NavBar = () => {
             }}
             style={{color:"black"}}
           >
-            HomeCompare
+            Appli.yes
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
